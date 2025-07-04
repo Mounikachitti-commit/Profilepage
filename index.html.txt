@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Mounika Chitti - Automation Test Engineer</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f9f9f9;
+      color: #333;
+      line-height: 1.6;
+    }
+    header {
+      background: #004080;
+      color: #fff;
+      padding: 2rem 1rem;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2.5rem;
+    }
+    header p {
+      font-size: 1.1rem;
+      margin-top: 0.5rem;
+    }
+    main {
+      max-width: 900px;
+      margin: 2rem auto;
+      padding: 0 1rem;
+    }
+    section {
+      margin-bottom: 2rem;
+    }
+    h2 {
+      color: #004080;
+      border-bottom: 2px solid #004080;
+      padding-bottom: 0.5rem;
+      margin-bottom: 1rem;
+    }
+    ul {
+      padding-left: 1.2rem;
+    }
+    footer {
+      text-align: center;
+      padding: 1rem;
+      background: #222;
+      color: #ddd;
+      font-size: 0.9rem;
+    }
+    @media (max-width: 600px) {
+      header h1 {
+        font-size: 1.8rem;
+      }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Mounika Chitti</h1>
+    <p>Experienced Automation Test Engineer | Stamp 4 Visa | Based in Carlow, Ireland</p>
+  </header>
+
+  <main>
+    <section id="about">
+      <h2>About Me</h2>
+      <p>
+        I am an experienced Automation Test Engineer with over 5 years of proven expertise in designing,
+        developing, and executing automated test scripts to ensure high-quality software delivery.
+        Holding a Stamp 4 visa and based in Carlow, Ireland, I am passionate about improving testing
+        processes and driving efficient quality assurance in Agile environments.
+      </p>
+      <p>
+        Skilled in multiple automation tools and frameworks, I have a strong track record of collaborating
+        closely with development teams to identify defects early, optimize test coverage, and reduce
+        time-to-market. I thrive in fast-paced settings and continuously seek to leverage new technologies
+        to enhance testing accuracy and reliability.
+      </p>
+      <p>
+        If you’re looking for a dedicated professional with deep automation testing experience and a solid
+        commitment to quality, feel free to connect or reach out!
+      </p>
+    </section>
+
+    <section id="skills">
+      <h2>Experience & Skills</h2>
+      <ul>
+        <li>Analyzed and understood requirements by reviewing user stories, backlog refinement, and brainstorming meetings.</li>
+        <li>Finalized user stories and automation backlog collaboratively with Product Owners and Business Analysts.</li>
+        <li>Prepared detailed test cases and requirement traceability matrices for full test coverage.</li>
+        <li>Executed test scenarios, including cross-browser and responsive design testing.</li>
+        <li>Developed automated regression test suites with Selenium WebDriver and TestNG integrated into CI/CD pipelines.</li>
+        <li>Performed manual and automated regression testing to ensure application stability.</li>
+        <li>Validated backend data using SQL queries and database validations.</li>
+        <li>Tracked defects using JIRA and TFS, coordinating resolution efforts.</li>
+        <li>Participated in Agile ceremonies including daily scrums and sprint planning.</li>
+        <li>Prepared test metrics and status reports for stakeholders.</li>
+        <li>Supported peers by sharing knowledge to ensure team success.</li>
+      </ul>
+    </section>
+
+    <section id="projects">
+      <h2>Projects</h2>
+      <ul>
+        <li>FRB Banking Web Application</li>
+        <li>Colonial Life Insurance Web Application</li>
+      </ul>
+    </section>
+
+    <section id="contact">
+      <h2>Contact</h2>
+      <p>Email: <a href="mailto:your.email@example.com">your.email@example.com</a></p>
+      <p>LinkedIn: <a href="https://linkedin.com/in/mounicachitti1998" target="_blank" rel="noopener noreferrer">linkedin.com/in/mounicachitti1998</a></p>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2025 Mounika Chitti. All rights reserved.</p>
+  </footer>
+</body>
+</html>
